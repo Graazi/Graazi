@@ -1,4 +1,4 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=+Oii!+Sou+Grazi+%F0%9F%91%8B" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=+Hello!+Sou+Grazi+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 - 🔭 Tenho interesse na área de back-end e Inteligência Artifial
 - 🌱 Estou aprendendo Java e Python
@@ -19,7 +19,7 @@
  
 <div align="center">
   <a href="https://github.com/Graazi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardaPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Grazi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaPires&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
