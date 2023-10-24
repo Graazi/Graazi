@@ -1,4 +1,4 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=+Hello!+Sou+Grazi+%F0%9F%91%8B" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=+Hi!+I'm+Grazi+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 - 🔭 Tenho interesse na área de back-end e Inteligência Artificial
 - 🌱 Estou aprendendo Java e Python
